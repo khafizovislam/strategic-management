@@ -1,0 +1,3 @@
+# Everything needed to run CarPulse on a Windows, macOS or Linux computer.
+flet[all]==1.1.3
+pytest>=8
